@@ -1,0 +1,7 @@
+../Core/Src/main.c:69:6:sendPacket	8	static
+../Core/Src/main.c:93:6:sendPacket2	48	static
+../Core/Src/main.c:126:6:continuousSendPackets	8	static
+../Core/Src/main.c:136:19:E22900T22D_Send	0	static
+../Core/Src/main.c:211:6:SystemClock_Config	160	static,ignoring_inline_asm
+../Core/Src/main.c:147:5:main	64	static,ignoring_inline_asm
+../Core/Src/main.c:410:6:Error_Handler	0	static,ignoring_inline_asm
